@@ -11,3 +11,5 @@ Fundamental Python syntax and libraries (NumPy, Pandas, Matplotlib, Seaborn, Plo
 * Used data to create reports and dashboards ti find the hidden trends and patterns
 
 ![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_44_0.png)
+![]
+![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_54_0.png)
