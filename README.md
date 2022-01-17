@@ -22,7 +22,7 @@ Fundamental Python syntax and libraries (NumPy, Pandas, Matplotlib, Seaborn, Plo
 * e: String variable, Dummy variable (always 1)
 
 
-## Reprocessing data
+## Reprocessing Data
 * class the category of data
 * drop the unuseful data
 * split the data to create new features dataset
