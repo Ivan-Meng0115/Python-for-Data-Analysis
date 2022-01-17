@@ -10,6 +10,9 @@ Fundamental Python syntax and libraries (NumPy, Pandas, Matplotlib, Seaborn, Plo
 * Reprocessed the dataset (class th elables, clean unrelated data, deal with the missing data)
 * Used data to create reports and dashboards ti find the hidden trends and patterns
 
+## Most common reason for 911 emergency call
 ![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_45_0.png)
+
+## 
 ![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_50_0.png)
 
