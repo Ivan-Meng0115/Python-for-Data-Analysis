@@ -10,18 +10,38 @@ Fundamental Python syntax and libraries (NumPy, Pandas, Matplotlib, Seaborn, Plo
 * Reprocessed the dataset (class th elables, clean unrelated data, deal with the missing data)
 * Used data to create reports and dashboards ti find the hidden trends and patterns
 
+## Features of Data
+* lat : String variable, Latitude
+* lng: String variable, Longitude
+* desc: String variable, Description of the Emergency Call
+* zip: String variable, Zipcode
+* title: String variable, Title
+* timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+* twp: String variable, Township
+* addr: String variable, Address
+* e: String variable, Dummy variable (always 1)
 
-## Overall 911 calls
+
+## Reprocessing data
+* class the category of data
+* drop the unuseful data
+* split the data to create new features dataset
+
+
+## Exploratory Data Analysis (EDA)
+
+
+* Overall 911 calls
 ![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_58_0.png)
 
-## Most common reason for 911 emergency call
+* Most common reason for 911 emergency call
 ![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_45_0.png)
 
-## 911 calls in each month
+* 911 calls in each month
 ![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_50_0.png)
 
 
-## Top 10 reasons for emergency calls
+* Top 10 reasons for emergency calls
 ![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_55_0.png)
 
 
