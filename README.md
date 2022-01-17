@@ -31,18 +31,18 @@ Fundamental Python syntax and libraries (NumPy, Pandas, Matplotlib, Seaborn, Plo
 ## Exploratory Data Analysis (EDA)
 
 
-* Overall 911 calls
+#### Overall 911 calls
 ![](/output_58_0.png)
 
-* Most common reason for 911 emergency call
-![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_45_0.png)
+#### Most common reason for 911 emergency call
+![](/output_45_0.png)
 
-* 911 calls in each month
-![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_50_0.png)
+#### 911 calls in each month
+![](/output_50_0.png)
 
 
-* Top 10 reasons for emergency calls
-![](https://github.com/Ivan-Meng0115/Python-for-Data-Analysis/blob/main/output_55_0.png)
+#### Top 10 reasons for emergency calls
+![](/output_55_0.png)
 
 
 
