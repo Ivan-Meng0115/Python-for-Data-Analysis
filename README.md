@@ -1,6 +1,5 @@
 ## Python-for-Data-Analysis
-Fundamental Python syntax and libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly, and Cufflinks) to make data cleaning, data analysis, and data visualization.
-
+The project focuses on Exploratory Data Analysis to discover hidden patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations by using fundamental Python syntax and libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly, and Cufflinks).
 
 
 ## [Project 1: Emergency 911 Calls -- Exploratory Data Analysis](http://localhost:8888/nbconvert/html/GitHub/Python%20Data%20Analysis/911%20Emergency%20Calls/Emergency%20911%20Calls%20--%20Exploratory%20Data%20Analysis%20Project%20.ipynb?download=false)
